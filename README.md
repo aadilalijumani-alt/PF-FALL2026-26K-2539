@@ -1,7 +1,7 @@
 # Aadil Ali
 
 ## About Me
-I am a first-year student at National University of Computer and Emerging Sciences, studying Programming Fundamentals.
+I am a first year student at National University of Computer and Emerging Sciences, studying Programming Fundamentals.
 
 ### My Goals
 I want to become a Data Scientist and build strong problem-solving skills.
